@@ -45,7 +45,6 @@ nb-configuration.xml
 .certs/
 /notion-script-keynote.zip
 /serveless-mermaid.png
-/serveless-mermaid.svg
 /serveless-oci.drawio
 /serveless-oci.drawio.png
 /infra/.terraform/
